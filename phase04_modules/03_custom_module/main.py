@@ -1,32 +1,20 @@
 import fiber_utility
-import math as m
 
+length = 4000
+homepass = 700
 
-def fiber_calculation():
+print(
+    "Fiber Length:",
+    fiber_utility.calculate_length_inkm(length),
+    "KM"
+)
 
-    length = 4000
-    homepass = 700
+print(
+    "Vault Requirement:",
+    fiber_utility.vault_placement(length)
+)
 
-    print(
-        "Fiber Length in KM:",
-        fiber_utility.calculate_length_inkm(length)
-    )
-
-    print(
-        "Total No vault requirement per 1000':",
-        fiber_utility.Vault_placement(length)
-    )
-
-    print(
-        "Splitter Requirement for this FSA:",
-        fiber_utility.splitter_calculation(homepass)
-    )
-
-
-def mathametic_function():
-
-    print(m.sqrt(100))
-
-
-fiber_calculation()
-mathametic_function()
+print(
+    "Splitter Requirement:",
+    fiber_utility.splitter_calculation(homepass)
+)
