@@ -1,0 +1,252 @@
+2026-08-31 18:59:47,644 - INFO - f {fiber.fiber_id}: Valid Fiber Id
+2026-08-31 18:59:47,646 - INFO - f {fiber.fiber_id}:{fiber.length} Valid Fiber Length
+2026-08-31 18:59:47,648 - INFO - f {fiber.fiber_id}:{fiber.homepass} Valid HomePass
+2026-08-31 18:59:47,648 - INFO - f {fiber.fiber_id}:{fiber.homepass}:{splitter} Splitter Count
+2026-08-31 18:59:47,648 - INFO - f {fiber.fiber_id}: Valid Fiber Id
+2026-08-31 18:59:47,648 - INFO - f {fiber.fiber_id}:{fiber.length} Valid Fiber Length
+2026-08-31 18:59:47,649 - INFO - f {fiber.fiber_id}:{fiber.homepass} Valid HomePass
+2026-08-31 18:59:47,650 - INFO - f {fiber.fiber_id}:{fiber.homepass}:{splitter} Splitter Count
+2026-08-31 18:59:47,651 - INFO - f {fiber.fiber_id}: Valid Fiber Id
+2026-08-31 18:59:47,652 - ERROR - f {fiber.fiber_id}:{fiber.length}: {e}
+2026-08-31 18:59:47,653 - INFO - f {fiber.fiber_id}:{fiber.homepass} Valid HomePass
+2026-08-31 18:59:47,653 - INFO - f {fiber.fiber_id}:{fiber.homepass}:{splitter} Splitter Count
+2026-08-31 18:59:47,653 - ERROR - FIB-ABC:Invalid Fiber Id
+2026-08-31 18:59:47,654 - INFO - f {fiber.fiber_id}:{fiber.length} Valid Fiber Length
+2026-08-31 18:59:47,654 - INFO - f {fiber.fiber_id}:{fiber.homepass} Valid HomePass
+2026-08-31 18:59:47,654 - INFO - f {fiber.fiber_id}:{fiber.homepass}:{splitter} Splitter Count
+2026-08-31 18:59:47,656 - INFO - f {fiber.fiber_id}: Valid Fiber Id
+2026-08-31 18:59:47,656 - INFO - f {fiber.fiber_id}:{fiber.length} Valid Fiber Length
+2026-08-31 18:59:47,656 - INFO - f {fiber.fiber_id}:{fiber.homepass} Valid HomePass
+2026-08-31 18:59:47,657 - INFO - f {fiber.fiber_id}:{fiber.homepass}:{splitter} Splitter Count
+2026-09-13 17:13:44,315 - INFO - Validation Started: validate_fiber_id
+2026-09-13 17:13:44,316 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 17:13:44,316 - INFO - FIB-1001: Valid Fiber Id
+2026-09-13 17:13:44,316 - INFO - Validation Started: validate_fiber_length
+2026-09-13 17:13:44,316 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 17:13:44,316 - INFO - FIB-1001:4500.0 Valid Fiber Length
+2026-09-13 17:13:44,317 - INFO - Validation Started: validate_homepass
+2026-09-13 17:13:44,317 - INFO - Validation Completed: validate_homepass
+2026-09-13 17:13:44,317 - INFO - FIB-1001:1389 Valid HomePass
+2026-09-13 17:13:44,317 - INFO - FIB-1001:1389:87 Splitter Count
+2026-09-13 17:13:44,318 - INFO - Validation Started: validate_fiber_id
+2026-09-13 17:13:44,318 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 17:13:44,318 - INFO - FIB-1002: Valid Fiber Id
+2026-09-13 17:13:44,319 - INFO - Validation Started: validate_fiber_length
+2026-09-13 17:13:44,319 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 17:13:44,319 - INFO - FIB-1002:2500.0 Valid Fiber Length
+2026-09-13 17:13:44,319 - INFO - Validation Started: validate_homepass
+2026-09-13 17:13:44,319 - INFO - Validation Completed: validate_homepass
+2026-09-13 17:13:44,320 - INFO - FIB-1002:500 Valid HomePass
+2026-09-13 17:13:44,320 - INFO - FIB-1002:500:32 Splitter Count
+2026-09-13 17:13:44,320 - INFO - Validation Started: validate_fiber_id
+2026-09-13 17:13:44,320 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 17:13:44,320 - INFO - FIB-1003: Valid Fiber Id
+2026-09-13 17:13:44,321 - INFO - Validation Started: validate_fiber_length
+2026-09-13 17:13:44,322 - ERROR - Validation Failed: validate_fiber_length - Fiber Length must be greater than Zero
+2026-09-13 17:13:44,323 - ERROR - FIB-1003:-100.0: Fiber Length must be greater than Zero
+2026-09-13 17:13:44,324 - INFO - Validation Started: validate_homepass
+2026-09-13 17:13:44,324 - INFO - Validation Completed: validate_homepass
+2026-09-13 17:13:44,324 - INFO - FIB-1003:300 Valid HomePass
+2026-09-13 17:13:44,324 - INFO - FIB-1003:300:19 Splitter Count
+2026-09-13 17:13:44,325 - INFO - Validation Started: validate_fiber_id
+2026-09-13 17:13:44,325 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 17:13:44,325 - ERROR - FIB-ABC:Invalid Fiber Id
+2026-09-13 17:13:44,326 - INFO - Validation Started: validate_fiber_length
+2026-09-13 17:13:44,326 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 17:13:44,326 - INFO - FIB-ABC:5000.0 Valid Fiber Length
+2026-09-13 17:13:44,327 - INFO - Validation Started: validate_homepass
+2026-09-13 17:13:44,327 - INFO - Validation Completed: validate_homepass
+2026-09-13 17:13:44,330 - INFO - FIB-ABC:800 Valid HomePass
+2026-09-13 17:13:44,331 - INFO - FIB-ABC:800:50 Splitter Count
+2026-09-13 17:13:44,331 - INFO - Validation Started: validate_fiber_id
+2026-09-13 17:13:44,331 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 17:13:44,332 - INFO - FIB-1004: Valid Fiber Id
+2026-09-13 17:13:44,332 - INFO - Validation Started: validate_fiber_length
+2026-09-13 17:13:44,333 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 17:13:44,333 - INFO - FIB-1004:6000.0 Valid Fiber Length
+2026-09-13 17:13:44,341 - INFO - Validation Started: validate_homepass
+2026-09-13 17:13:44,341 - INFO - Validation Completed: validate_homepass
+2026-09-13 17:13:44,342 - INFO - FIB-1004:1200 Valid HomePass
+2026-09-13 17:13:44,342 - INFO - FIB-1004:1200:75 Splitter Count
+2026-09-13 17:17:42,823 - INFO - Validation Started: validate_fiber_id
+2026-09-13 17:17:42,823 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 17:17:42,824 - INFO - FIB-1001: Valid Fiber Id
+2026-09-13 17:17:42,824 - INFO - Validation Started: validate_fiber_length
+2026-09-13 17:17:42,824 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 17:17:42,824 - INFO - FIB-1001:4500.0 Valid Fiber Length
+2026-09-13 17:17:42,826 - INFO - Validation Started: validate_homepass
+2026-09-13 17:17:42,826 - INFO - Validation Completed: validate_homepass
+2026-09-13 17:17:42,827 - INFO - FIB-1001:1389 Valid HomePass
+2026-09-13 17:17:42,827 - INFO - FIB-1001:1389:87 Splitter Count
+2026-09-13 17:17:42,827 - INFO - Validation Started: validate_fiber_id
+2026-09-13 17:17:42,828 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 17:17:42,828 - INFO - FIB-1002: Valid Fiber Id
+2026-09-13 17:17:42,829 - INFO - Validation Started: validate_fiber_length
+2026-09-13 17:17:42,830 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 17:17:42,830 - INFO - FIB-1002:2500.0 Valid Fiber Length
+2026-09-13 17:17:42,830 - INFO - Validation Started: validate_homepass
+2026-09-13 17:17:42,831 - INFO - Validation Completed: validate_homepass
+2026-09-13 17:17:42,833 - INFO - FIB-1002:500 Valid HomePass
+2026-09-13 17:17:42,833 - INFO - FIB-1002:500:32 Splitter Count
+2026-09-13 17:17:42,834 - INFO - Validation Started: validate_fiber_id
+2026-09-13 17:17:42,835 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 17:17:42,835 - INFO - FIB-1003: Valid Fiber Id
+2026-09-13 17:17:42,835 - INFO - Validation Started: validate_fiber_length
+2026-09-13 17:17:42,836 - ERROR - Validation Failed: validate_fiber_length - Fiber Length must be greater than Zero
+2026-09-13 17:20:33,990 - INFO - Validation Started: validate_fiber_id
+2026-09-13 17:20:33,991 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 17:20:33,991 - INFO - FIB-1001: Valid Fiber Id
+2026-09-13 17:20:33,992 - INFO - Validation Started: validate_fiber_length
+2026-09-13 17:20:33,992 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 17:20:33,992 - INFO - FIB-1001:4500.0 Valid Fiber Length
+2026-09-13 17:20:33,992 - INFO - Validation Started: validate_homepass
+2026-09-13 17:20:33,993 - INFO - Validation Completed: validate_homepass
+2026-09-13 17:20:33,994 - INFO - FIB-1001:1389 Valid HomePass
+2026-09-13 17:20:33,994 - INFO - FIB-1001:1389:87 Splitter Count
+2026-09-13 17:20:33,994 - INFO - Validation Started: validate_fiber_id
+2026-09-13 17:20:33,994 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 17:20:33,995 - INFO - FIB-1002: Valid Fiber Id
+2026-09-13 17:20:33,995 - INFO - Validation Started: validate_fiber_length
+2026-09-13 17:20:33,995 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 17:20:33,995 - INFO - FIB-1002:2500.0 Valid Fiber Length
+2026-09-13 17:20:33,995 - INFO - Validation Started: validate_homepass
+2026-09-13 17:20:33,995 - INFO - Validation Completed: validate_homepass
+2026-09-13 17:20:33,996 - INFO - FIB-1002:500 Valid HomePass
+2026-09-13 17:20:33,997 - INFO - FIB-1002:500:32 Splitter Count
+2026-09-13 17:20:33,998 - INFO - Validation Started: validate_fiber_id
+2026-09-13 17:20:33,998 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 17:20:33,998 - INFO - FIB-1003: Valid Fiber Id
+2026-09-13 17:20:34,000 - INFO - Validation Started: validate_fiber_length
+2026-09-13 17:20:34,000 - ERROR - Validation Failed: validate_fiber_length - Fiber Length must be greater than Zero
+2026-09-13 17:20:34,003 - ERROR - FIB-1003:-100.0: Fiber Length must be greater than Zero
+2026-09-13 17:20:34,003 - INFO - Validation Started: validate_homepass
+2026-09-13 17:20:34,003 - INFO - Validation Completed: validate_homepass
+2026-09-13 17:20:34,005 - INFO - FIB-1003:300 Valid HomePass
+2026-09-13 17:20:34,005 - INFO - FIB-1003:300:19 Splitter Count
+2026-09-13 17:20:34,006 - INFO - Validation Started: validate_fiber_id
+2026-09-13 17:20:34,006 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 17:20:34,007 - ERROR - FIB-ABC:Invalid Fiber Id
+2026-09-13 17:20:34,009 - INFO - Validation Started: validate_fiber_length
+2026-09-13 17:20:34,009 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 17:20:34,009 - INFO - FIB-ABC:5000.0 Valid Fiber Length
+2026-09-13 17:20:34,011 - INFO - Validation Started: validate_homepass
+2026-09-13 17:20:34,012 - INFO - Validation Completed: validate_homepass
+2026-09-13 17:20:34,013 - INFO - FIB-ABC:800 Valid HomePass
+2026-09-13 17:20:34,013 - INFO - FIB-ABC:800:50 Splitter Count
+2026-09-13 17:20:34,015 - INFO - Validation Started: validate_fiber_id
+2026-09-13 17:20:34,015 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 17:20:34,015 - INFO - FIB-1004: Valid Fiber Id
+2026-09-13 17:20:34,016 - INFO - Validation Started: validate_fiber_length
+2026-09-13 17:20:34,016 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 17:20:34,016 - INFO - FIB-1004:6000.0 Valid Fiber Length
+2026-09-13 17:20:34,016 - INFO - Validation Started: validate_homepass
+2026-09-13 17:20:34,016 - INFO - Validation Completed: validate_homepass
+2026-09-13 17:20:34,016 - INFO - FIB-1004:1200 Valid HomePass
+2026-09-13 17:20:34,016 - INFO - FIB-1004:1200:75 Splitter Count
+2026-09-13 18:09:15,019 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:09:15,019 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:09:15,019 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:09:15,019 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 18:09:15,019 - INFO - Validation Started: validate_homepass
+2026-09-13 18:09:15,019 - INFO - Validation Completed: validate_homepass
+2026-09-13 18:09:15,020 - INFO - FIB-1001: Fiber is VALID
+2026-09-13 18:09:15,020 - INFO - FIB-1001: Required Splitter = 87
+2026-09-13 18:09:15,021 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:09:15,021 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:09:15,021 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:09:15,021 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 18:09:15,021 - INFO - Validation Started: validate_homepass
+2026-09-13 18:09:15,021 - INFO - Validation Completed: validate_homepass
+2026-09-13 18:09:15,027 - INFO - FIB-1002: Fiber is VALID
+2026-09-13 18:09:15,027 - INFO - FIB-1002: Required Splitter = 32
+2026-09-13 18:09:15,028 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:09:15,028 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:09:15,028 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:09:15,029 - ERROR - Validation Failed: validate_fiber_length - Fiber Length must be greater than Zero
+2026-09-13 18:09:15,029 - ERROR - FIB-1003: Fiber is INVALID - Fiber Length must be greater than Zero
+2026-09-13 18:09:15,030 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:09:15,030 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:09:15,030 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:09:15,030 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 18:09:15,030 - INFO - Validation Started: validate_homepass
+2026-09-13 18:09:15,031 - INFO - Validation Completed: validate_homepass
+2026-09-13 18:09:15,032 - INFO - FIB-ABC: Fiber is VALID
+2026-09-13 18:09:15,032 - INFO - FIB-ABC: Required Splitter = 50
+2026-09-13 18:09:15,034 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:09:15,034 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:09:15,034 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:09:15,034 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 18:09:15,034 - INFO - Validation Started: validate_homepass
+2026-09-13 18:09:15,034 - INFO - Validation Completed: validate_homepass
+2026-09-13 18:09:15,036 - INFO - FIB-1004: Fiber is VALID
+2026-09-13 18:09:15,036 - INFO - FIB-1004: Required Splitter = 75
+2026-09-13 18:12:35,265 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:12:35,266 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:12:35,266 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:12:35,267 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 18:12:35,267 - INFO - Validation Started: validate_homepass
+2026-09-13 18:12:35,267 - INFO - Validation Completed: validate_homepass
+2026-09-13 18:12:35,273 - INFO - FIB-1001: Fiber is VALID
+2026-09-13 18:12:35,273 - INFO - FIB-1001: Required Splitter = 87
+2026-09-13 18:12:35,274 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:12:35,274 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:12:35,274 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:12:35,275 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 18:12:35,275 - INFO - Validation Started: validate_homepass
+2026-09-13 18:12:35,275 - INFO - Validation Completed: validate_homepass
+2026-09-13 18:12:35,284 - INFO - FIB-1002: Fiber is VALID
+2026-09-13 18:12:35,284 - INFO - FIB-1002: Required Splitter = 32
+2026-09-13 18:12:35,288 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:12:35,288 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:12:35,288 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:12:35,289 - ERROR - Validation Failed: validate_fiber_length - Fiber Length must be greater than Zero
+2026-09-13 18:12:35,290 - ERROR - FIB-1003: Fiber is INVALID - Fiber Length must be greater than Zero
+2026-09-13 18:12:35,296 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:12:35,296 - ERROR - Validation Failed: validate_fiber_id - Invalid Fiber ID: FIB-ABC
+2026-09-13 18:12:35,297 - ERROR - FIB-ABC: Fiber is INVALID - Invalid Fiber ID: FIB-ABC
+2026-09-13 18:12:35,300 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:12:35,300 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:12:35,300 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:12:35,300 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 18:12:35,300 - INFO - Validation Started: validate_homepass
+2026-09-13 18:12:35,300 - INFO - Validation Completed: validate_homepass
+2026-09-13 18:12:35,303 - INFO - FIB-1004: Fiber is VALID
+2026-09-13 18:12:35,303 - INFO - FIB-1004: Required Splitter = 75
+2026-09-13 18:38:36,311 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:38:36,312 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:38:36,312 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:38:36,312 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 18:38:36,312 - INFO - Validation Started: validate_homepass
+2026-09-13 18:38:36,312 - INFO - Validation Completed: validate_homepass
+2026-09-13 18:39:51,029 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:39:51,034 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:39:51,035 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:39:51,035 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 18:39:51,035 - INFO - Validation Started: validate_homepass
+2026-09-13 18:39:51,035 - INFO - Validation Completed: validate_homepass
+2026-09-13 18:39:51,042 - INFO - FIB-1001: Fiber is VALID
+2026-09-13 18:39:51,043 - INFO - FIB-1001: Required Splitter = 87
+2026-09-13 18:39:51,044 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:39:51,045 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:39:51,045 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:39:51,045 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 18:39:51,045 - INFO - Validation Started: validate_homepass
+2026-09-13 18:39:51,045 - INFO - Validation Completed: validate_homepass
+2026-09-13 18:39:51,051 - INFO - FIB-1002: Fiber is VALID
+2026-09-13 18:39:51,051 - INFO - FIB-1002: Required Splitter = 32
+2026-09-13 18:39:51,051 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:39:51,051 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:39:51,052 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:39:51,052 - ERROR - Validation Failed: validate_fiber_length - Fiber Length must be greater than Zero
+2026-09-13 18:39:51,054 - ERROR - FIB-1003: Fiber is INVALID - Fiber Length must be greater than Zero
+2026-09-13 18:39:51,055 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:39:51,055 - ERROR - Validation Failed: validate_fiber_id - Invalid Fiber ID: FIB-ABC
+2026-09-13 18:39:51,055 - ERROR - FIB-ABC: Fiber is INVALID - Invalid Fiber ID: FIB-ABC
+2026-09-13 18:39:51,056 - INFO - Validation Started: validate_fiber_id
+2026-09-13 18:39:51,056 - INFO - Validation Completed: validate_fiber_id
+2026-09-13 18:39:51,056 - INFO - Validation Started: validate_fiber_length
+2026-09-13 18:39:51,056 - INFO - Validation Completed: validate_fiber_length
+2026-09-13 18:39:51,056 - INFO - Validation Started: validate_homepass
+2026-09-13 18:39:51,056 - INFO - Validation Completed: validate_homepass
+2026-09-13 18:39:51,058 - INFO - FIB-1004: Fiber is VALID
+2026-09-13 18:39:51,058 - INFO - FIB-1004: Required Splitter = 75

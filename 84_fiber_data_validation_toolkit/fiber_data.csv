@@ -1,0 +1,6 @@
+fiber_id,length,homepass,status
+FIB-1001,4500,1389,Active
+FIB-1002,2500,500,Active
+FIB-1003,-100,300,Fault
+FIB-ABC,5000,800,Active
+FIB-1004,6000,1200,Active
